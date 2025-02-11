@@ -10,5 +10,5 @@ Below is the list of test cases for the application:
 | TC002        | Test API error handling   | Grouq Querry > Refresh page                | Show fallback message    | Fallback message shown   | Passed  | Low                   | Handled gracefully       |
 | TC003        | Check cart functionality  | Add item to cart > verify cart             | Cart updates correctly   | Cart updates correctly   | Passed  | Medium                | Works as expected        |
 | TC004        | Test responsiveness layout| Resize window layout > browser check       | Layout adjusts properly  | Layout adjusts properly  | Passed  | Medium                | Responsive verified      | 
-| TC005        | Cross Browsing            |Open Our Website On Different Browsing      |Currently Working on Every|Currently Working on Every|  Passed |Low                    | Sucessfully              |
-                                           | such as Edge                               |Devices                   |Devices                   |         |                       |                          |
+| TC005        | Cross Browsing            |Open Our Website On Different Browsing      |Currently Working on Every|Currently Working on Every Devices|  Passed |Low                    | Sucessfully              |
+                                           | such as Edge                               |Devices                   |                   |         |                       |                          |
